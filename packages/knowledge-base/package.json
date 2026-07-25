@@ -1,0 +1,9 @@
+{
+  "name": "@sentinel/knowledge-base",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "build": "echo 'build knowledge-base'",
+    "test": "echo 'test knowledge-base'"
+  }
+}

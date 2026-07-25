@@ -1,0 +1,9 @@
+{
+  "name": "@sentinel/core",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "build": "echo 'build core'",
+    "test": "echo 'test core'"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "@sentinel/cli",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "main": "./src/index.ts",
+  "bin": {
+    "sentinel": "./src/index.ts"
+  },
+  "scripts": {
+    "scan": "tsx src/index.ts",
+    "test": "tsx ../../tests/reasoningEngine.test.ts"
+  },
+  "dependencies": {
+    "@sentinel/domain": "workspace:*",
+    "@sentinel/engines": "workspace:*"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "name": "@sentinel/api",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "build": "echo 'build api'",
+    "test": "echo 'test api'"
+  }
+}
